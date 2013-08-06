@@ -6,7 +6,7 @@ Slug: a-gaming-blog
 Author: matt lebrun
 
 
-    "The games of old are nothing like the games of this age."  
+> "The games of old are nothing like the games of this age."
 
 That was my prevailing thought after a long chat with Ron and Ray about 
 how different are the games of this generation compared to the games of 
