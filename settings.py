@@ -4,7 +4,7 @@ AUTHOR = 'matt lebrun'
 SITENAME = 'the playground'
 TAGLINE = 'A gaming journal.'
 USER_LOGO_URL = 'http://www.gravatar.com/avatar/0f0e8de906724bbb54093f1852e7522e.png?size=140x140'
-SITEURL = 'http://cr8ivecodesmith.github.com/play'
+SITEURL = 'http://play.mattlebrun.com'
 DEFAULT_DATE_FORMAT = '%A, %B %d, %Y'
 SUMMARY_MAX_LENGTH = (50)
 
