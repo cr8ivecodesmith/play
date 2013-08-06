@@ -85,3 +85,27 @@ smell of adventure and new discoveries. I've always been the curious,
 adventurous type after all!
 
 I guess I better finish reading the history book to get some clues.
+
+
+------
+
+
+###### Notes
+
+In case you missed it, I actually got a Shepherd class character. I 
+haven't played this class before and I'm quite excited to play him out. Oh 
+and I named him `Eli`. It just seems like I've been quite fond of using 
+that name for my characters lately. 
+
+Also, notice that I've decided to write the story in first-person POV for 
+better immersion. 
+
+I think Ultima IV is one of those games where you really have to play out 
+the role to get the most out of the game. Its not just about 
+hack-and-slashing your way through the game or making the best character 
+build or unlocking the next achievement or highscore. Its a genuine 
+experience where the game doesn't hold your hand and leaves you in a 
+massive world waiting for you to experience and discover its secrets and 
+grandeur. 
+
+Lastly, be forewarned: There will be typos and grammatical errors!
